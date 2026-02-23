@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I'm Harinivo
-- 🌱 J'aime les métiers du digital et je souhaite approfondir avec Sayna.
-- 👯 Je souhaite participer à des microtasks pour arrondir mes fins du mois.
-- Je suis consultante et souhaite digitaliser mon métier
+- 🔭 I'm Mirana
+- 🌱 Je m'efforce à maitriser le métier du digital.
+- 👯 Expérimentée dans le suivi des projets, dans le management qualité.
 
 -->
